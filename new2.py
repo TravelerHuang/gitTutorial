@@ -32,4 +32,5 @@ if __name__ == "__main__":
     print(quickselect(nums, len(nums) - k + 1))  # 输出5，表示第2大的数是5
 
     print("new")
-    print("testing")
+    print("testing-main")
+    print("main")
